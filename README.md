@@ -7,3 +7,4 @@ Le second bloc commenté ; avec les 3 while imbriqués n'est pas mieux optimisé
 
 Le bloc non commenté n'est pas fonctionnel ; car il n'incrémente par le troisième côté.
 
+<a href="http://mangooste.fr/tricount/" target="_blank">Démo</a>
